@@ -1,0 +1,7 @@
+The mape of noweather_incre_gbm_count is 2.392712
+The mape of noweather_incre_gbm_speed is 0.079593
+The mape of gbm_grids_count is 1.738071
+The mape of incre_gbm_count is 3.779881
+The mape of incre_gbm_speed is 0.093266
+The mape of gbm_grids_speed is 0.064478
+

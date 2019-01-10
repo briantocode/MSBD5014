@@ -1,0 +1,144 @@
+COUNT//SPEED MAPE with ITERATION
+count
+Training Score：mape=0.3028
+Validation Score：mape=0.4591
+[LightGBM] [Info] Total Bins 93
+[LightGBM] [Info] Number of data: 1000000, number of used features: 4
+Training Score：mape=0.2617
+Validation Score：mape=0.4710
+[LightGBM] [Info] Total Bins 97
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2526
+Validation Score：mape=0.4581
+[LightGBM] [Info] Total Bins 91
+[LightGBM] [Info] Number of data: 1000000, number of used features: 4
+Training Score：mape=0.2099
+Validation Score：mape=0.3937
+[LightGBM] [Info] Total Bins 96
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2116
+Validation Score：mape=0.3855
+[LightGBM] [Info] Total Bins 102
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2229
+Validation Score：mape=0.4498
+[LightGBM] [Info] Total Bins 98
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.1833
+Validation Score：mape=0.4595
+[LightGBM] [Info] Total Bins 100
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.1953
+Validation Score：mape=0.4957
+[LightGBM] [Info] Total Bins 101
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.1993
+Validation Score：mape=0.4673
+[LightGBM] [Info] Total Bins 101
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.1523
+Validation Score：mape=0.4025
+[LightGBM] [Info] Total Bins 98
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2203
+Validation Score：mape=0.4573
+[LightGBM] [Info] Total Bins 102
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2066
+Validation Score：mape=0.4940
+[LightGBM] [Info] Total Bins 101
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.1339
+Validation Score：mape=0.4392
+[LightGBM] [Info] Total Bins 101
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2199
+Validation Score：mape=0.4969
+[LightGBM] [Info] Total Bins 98
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.1927
+Validation Score：mape=0.4528
+[LightGBM] [Info] Total Bins 92
+[LightGBM] [Info] Number of data: 1000000, number of used features: 5
+Training Score：mape=0.1615
+Validation Score：mape=0.4112
+[LightGBM] [Info] Total Bins 100
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2519
+Validation Score：mape=0.4073
+[LightGBM] [Info] Total Bins 90
+[LightGBM] [Info] Number of data: 1000000, number of used features: 4
+Training Score：mape=0.2102
+Validation Score：mape=0.4248
+[LightGBM] [Info] Total Bins 96
+[LightGBM] [Info] Number of data: 1000000, number of used features: 5
+Training Score：mape=0.2166
+Validation Score：mape=0.4562
+[LightGBM] [Info] Total Bins 102
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.1657
+Validation Score：mape=0.4085
+[LightGBM] [Info] Total Bins 98
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2015
+Validation Score：mape=0.3865
+[LightGBM] [Info] Total Bins 93
+[LightGBM] [Info] Number of data: 1000000, number of used features: 5
+Training Score：mape=0.1660
+Validation Score：mape=0.4229
+[LightGBM] [Info] Total Bins 103
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2072
+Validation Score：mape=0.4516
+[LightGBM] [Info] Total Bins 95
+[LightGBM] [Info] Number of data: 1000000, number of used features: 5
+Training Score：mape=0.1586
+Validation Score：mape=0.3796
+[LightGBM] [Info] Total Bins 106
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.1800
+Validation Score：mape=0.6413
+[LightGBM] [Info] Total Bins 91
+[LightGBM] [Info] Number of data: 1000000, number of used features: 4
+Training Score：mape=0.1701
+Validation Score：mape=0.3728
+[LightGBM] [Info] Total Bins 90
+[LightGBM] [Info] Number of data: 1000000, number of used features: 4
+Training Score：mape=0.1713
+Validation Score：mape=0.3980
+[LightGBM] [Info] Total Bins 100
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.1857
+Validation Score：mape=0.3712
+[LightGBM] [Info] Total Bins 105
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2173
+Validation Score：mape=0.3680
+[LightGBM] [Info] Total Bins 100
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2353
+Validation Score：mape=0.4054
+[LightGBM] [Info] Total Bins 101
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2831
+Validation Score：mape=0.4384
+[LightGBM] [Info] Total Bins 99
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.1966
+Validation Score：mape=0.5241
+[LightGBM] [Info] Total Bins 97
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.2043
+Validation Score：mape=0.5057
+[LightGBM] [Info] Total Bins 96
+[LightGBM] [Info] Number of data: 1000000, number of used features: 6
+Training Score：mape=0.1909
+Validation Score：mape=0.4143
+[LightGBM] [Info] Total Bins 95
+[LightGBM] [Info] Number of data: 949224, number of used features: 6
+Training Score：mape=0.1740
+Validation Score：mape=0.3907
+
+mape for speed
+[0.2477030596389068, 0.25818362017795643, 0.2493332786716118, 0.25258223505928135, 0.24340932386405534, 0.2586271163622397, 0.247489486969472, 0.239405047877272, 0.24818449945842141, 0.24524506342344277, 0.25251990363868027, 0.24270637122350816, 0.24665659469291878, 0.24752598535970674, 0.24430634404888643, 0.24994938570520137, 0.25454168288769796, 0.265807216096089, 0.24751772469160116, 0.2677839105037373, 0.2582756886730482, 0.2589186196061423, 0.2513773952906332, 0.26299987058752644, 0.25507031565718435, 0.2685579410007781, 0.2564232533490671, 0.26106431400953545, 0.2619664338758971, 0.24758903461303355, 0.26531386983469324, 0.2636465875738458, 0.27026227084413745, 0.2735894429323941, 0.2612224752664364, 0.25893014809882037, 0.2685014160027432, 0.2663897636704727, 0.249164649106455]
+[0.3411941431448967, 0.28611919626064575, 0.29170985583778974, 0.31680159097100047, 0.30414365082108336, 0.2937119116217972, 0.29432915242987745, 0.2912176943478142, 0.2921530293917451, 0.2931237901380325, 0.29731212294417114, 0.31861407849605433, 0.2865618765249778, 0.2973127218201291, 0.28645262718722736, 0.3086325435307632, 0.2916220839629156, 0.27582446470600797, 0.30563964485233014, 0.2909182552605986, 0.2877990627787619, 0.293399964469433, 0.2845407112022446, 0.28623232241866353, 0.288615759161311, 0.2770313654454813, 0.2963156831651277, 0.27700736373189533, 0.2833412895444135, 0.28446789568034775, 0.2799422458545716, 0.27663077531967245, 0.2795592441889883, 0.2881562216929181, 0.30201015253740265, 0.2760627784794096, 0.2781434010837545, 0.2730928016316251, 0.29857342701594314]
